@@ -1,0 +1,18 @@
+[INFO]
+
+[/INFO]
+
+
+[CONFIG]
+
+[/CONFIG]
+
+
+
+.roleZeroTake={init}{-mentions}{del}{take:IDK}
+[#CONTINUE#]
+
+!twobewbz={init}{ars:.roleZeroTake}{role:Twitch}{user}'s role has been updated!
+[#CONTINUE#]
+
+!keyfriend={init}{ars:.roleZeroTake}{role:Keys}{user}'s role has been updated!
